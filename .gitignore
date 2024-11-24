@@ -1,6 +1,5 @@
-# 除外したいファイルやディレクトリ
-.DS_Store        # macOSのシステムファイル
-*.log            # すべてのログファイル
-node_modules/    # node_modulesディレクトリ
-__pycache__/     # Pythonのキャッシュディレクトリ
-*.ipynb_checkpoints  # Jupyter Notebookのチェックポイントファイル
+.DS_Store
+*.log
+node_modules/
+__pycache__/
+*.ipynb_checkpoints
