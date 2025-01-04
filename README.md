@@ -6,8 +6,13 @@
 - [MDに目次を入れたりする方法](https://qiita.com/eyuta/items/b1a53f3da8c5f8e7f41d)
 
 # 目次
-- [確率論 伊藤清]()
+- [E資格](/Users/kei/Others/github/keilich_note/E資格)
 =======
 # このリポジトリは?
 - 学習したことを残している
 
+# githubの更新方法
+- git add . もしくは git add ファイル名
+- git commit -m "変更の内容"
+- git push origin main
+  
