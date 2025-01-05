@@ -6,7 +6,8 @@
 - [MDに目次を入れたりする方法](https://qiita.com/eyuta/items/b1a53f3da8c5f8e7f41d)
 
 # 目次
-- [E資格](/Users/kei/Others/github/keilich_note/E資格)
+- [E資格]
+
 =======
 # このリポジトリは?
 - 学習したことを残している
